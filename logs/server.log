@@ -1,0 +1,64 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:55626 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55650 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55650 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55634 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55634 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55650 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55650 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55650 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55650 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55662 - "GET /api/slots HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55670 - "GET /api/menu HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/kpis HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55648 - "GET /api/orders HTTP/1.1" 200 OK
